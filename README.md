@@ -36,3 +36,8 @@ in total, and, at least, 3 points more than the opponent
 scorer is not leading by, at least, 3 points or does not have a
 minimum of 5 points, the game is considered a draw
 
+No. of players allowed to play 2,3 or 4
+
+To start play execute following command
+
+CleanStrike\target> java -jar .\clean-strike-1.0-SNAPSHOT.jar
